@@ -115,7 +115,7 @@ This project explores:
 
 1. How to effectively generate diverse basis action sets  
 2. How to optimize mixed strategy weights to minimize user regret values  
-3. Characteristics of correlated equilibrium in traffic networks compared to traditional Nash equilibrium  
+ 
 
 ---
 
